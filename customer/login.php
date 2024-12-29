@@ -132,10 +132,10 @@
         <div class="col-lg-4 col-md-12 footer-newsletter">
           <h4>Follow Us</h4>
           <div class="social-links d-flex mt-4">
-            <a href=""><i class="bi bi-twitter-x"></i></a>
-            <a href=""><i class="bi bi-facebook"></i></a>
-            <a href=""><i class="bi bi-instagram"></i></a>
-            <a href=""><i class="bi bi-linkedin"></i></a>
+            <a href=""><i class="fab fa-twitter"></i></a>
+            <a href=""><i class="fab fa-facebook"></i></a>
+            <a href=""><i class="fab fa-instagram"></i></a>
+            <a href=""><i class="fab fa-linkedin"></i></a>
           </div>
         </div>
 
@@ -164,7 +164,6 @@
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
   <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
   <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
 
